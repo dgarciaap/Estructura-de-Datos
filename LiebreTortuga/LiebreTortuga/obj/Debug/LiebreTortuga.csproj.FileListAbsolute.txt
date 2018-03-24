@@ -1,0 +1,9 @@
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\LiebreTortuga\LiebreTortuga\bin\Debug\LiebreTortuga.exe.config
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\LiebreTortuga\LiebreTortuga\bin\Debug\LiebreTortuga.exe
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\LiebreTortuga\LiebreTortuga\bin\Debug\LiebreTortuga.pdb
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\LiebreTortuga\LiebreTortuga\obj\Debug\LiebreTortuga.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\LiebreTortuga\LiebreTortuga\obj\Debug\LiebreTortuga.Form1.resources
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\LiebreTortuga\LiebreTortuga\obj\Debug\LiebreTortuga.Properties.Resources.resources
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\LiebreTortuga\LiebreTortuga\obj\Debug\LiebreTortuga.csproj.GenerateResource.Cache
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\LiebreTortuga\LiebreTortuga\obj\Debug\LiebreTortuga.exe
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\LiebreTortuga\LiebreTortuga\obj\Debug\LiebreTortuga.pdb
