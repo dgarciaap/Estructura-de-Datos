@@ -1,0 +1,9 @@
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Eratostenes\Eratostenes\bin\Debug\Eratostenes.exe.config
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Eratostenes\Eratostenes\bin\Debug\Eratostenes.exe
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Eratostenes\Eratostenes\bin\Debug\Eratostenes.pdb
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Eratostenes\Eratostenes\obj\Debug\Eratostenes.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Eratostenes\Eratostenes\obj\Debug\Eratostenes.Form1.resources
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Eratostenes\Eratostenes\obj\Debug\Eratostenes.Properties.Resources.resources
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Eratostenes\Eratostenes\obj\Debug\Eratostenes.csproj.GenerateResource.Cache
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Eratostenes\Eratostenes\obj\Debug\Eratostenes.exe
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Eratostenes\Eratostenes\obj\Debug\Eratostenes.pdb
