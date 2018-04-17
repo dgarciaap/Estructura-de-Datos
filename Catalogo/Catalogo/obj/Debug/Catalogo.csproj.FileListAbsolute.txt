@@ -1,0 +1,9 @@
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Catalogo\Catalogo\bin\Debug\Catalogo.exe.config
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Catalogo\Catalogo\bin\Debug\Catalogo.exe
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Catalogo\Catalogo\bin\Debug\Catalogo.pdb
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Catalogo\Catalogo\obj\Debug\Catalogo.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Catalogo\Catalogo\obj\Debug\Catalogo.Form1.resources
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Catalogo\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Catalogo\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.Cache
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Catalogo\Catalogo\obj\Debug\Catalogo.exe
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\Catalogo\Catalogo\obj\Debug\Catalogo.pdb
