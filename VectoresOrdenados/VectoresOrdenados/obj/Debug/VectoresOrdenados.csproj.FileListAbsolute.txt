@@ -1,0 +1,9 @@
+c:\users\diana\documents\visual studio 2017\Projects\VectoresOrdenados\VectoresOrdenados\bin\Debug\VectoresOrdenados.exe.config
+c:\users\diana\documents\visual studio 2017\Projects\VectoresOrdenados\VectoresOrdenados\bin\Debug\VectoresOrdenados.exe
+c:\users\diana\documents\visual studio 2017\Projects\VectoresOrdenados\VectoresOrdenados\bin\Debug\VectoresOrdenados.pdb
+c:\users\diana\documents\visual studio 2017\Projects\VectoresOrdenados\VectoresOrdenados\obj\Debug\VectoresOrdenados.csprojResolveAssemblyReference.cache
+c:\users\diana\documents\visual studio 2017\Projects\VectoresOrdenados\VectoresOrdenados\obj\Debug\VectoresOrdenados.Form1.resources
+c:\users\diana\documents\visual studio 2017\Projects\VectoresOrdenados\VectoresOrdenados\obj\Debug\VectoresOrdenados.Properties.Resources.resources
+c:\users\diana\documents\visual studio 2017\Projects\VectoresOrdenados\VectoresOrdenados\obj\Debug\VectoresOrdenados.csproj.GenerateResource.Cache
+c:\users\diana\documents\visual studio 2017\Projects\VectoresOrdenados\VectoresOrdenados\obj\Debug\VectoresOrdenados.exe
+c:\users\diana\documents\visual studio 2017\Projects\VectoresOrdenados\VectoresOrdenados\obj\Debug\VectoresOrdenados.pdb
