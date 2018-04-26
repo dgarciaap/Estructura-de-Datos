@@ -1,0 +1,9 @@
+C:\Users\Diana\Documents\Visual Studio 2017\Projects\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.exe.config
+C:\Users\Diana\Documents\Visual Studio 2017\Projects\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.exe
+C:\Users\Diana\Documents\Visual Studio 2017\Projects\GraficoTortuga\GraficoTortuga\bin\Debug\GraficoTortuga.pdb
+C:\Users\Diana\Documents\Visual Studio 2017\Projects\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Documents\Visual Studio 2017\Projects\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.Form1.resources
+C:\Users\Diana\Documents\Visual Studio 2017\Projects\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.Properties.Resources.resources
+C:\Users\Diana\Documents\Visual Studio 2017\Projects\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.csproj.GenerateResource.Cache
+C:\Users\Diana\Documents\Visual Studio 2017\Projects\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.exe
+C:\Users\Diana\Documents\Visual Studio 2017\Projects\GraficoTortuga\GraficoTortuga\obj\Debug\GraficoTortuga.pdb
