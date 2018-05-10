@@ -1,0 +1,9 @@
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\CatalogoListas\CatalogoListas\bin\Debug\CatalogoListas.exe.config
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\CatalogoListas\CatalogoListas\bin\Debug\CatalogoListas.exe
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\CatalogoListas\CatalogoListas\bin\Debug\CatalogoListas.pdb
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\CatalogoListas\CatalogoListas\obj\Debug\CatalogoListas.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\CatalogoListas\CatalogoListas\obj\Debug\CatalogoListas.Form1.resources
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\CatalogoListas\CatalogoListas\obj\Debug\CatalogoListas.Properties.Resources.resources
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\CatalogoListas\CatalogoListas\obj\Debug\CatalogoListas.csproj.GenerateResource.Cache
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\CatalogoListas\CatalogoListas\obj\Debug\CatalogoListas.exe
+C:\Users\Diana\Desktop\Ing. en Software\4E\Estructura de datos\CatalogoListas\CatalogoListas\obj\Debug\CatalogoListas.pdb
