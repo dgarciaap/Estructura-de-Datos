@@ -1,0 +1,10 @@
+H:\ListasDobles\ListasDobles\bin\Debug\ListasDobles.exe.config
+H:\ListasDobles\ListasDobles\bin\Debug\ListasDobles.exe
+H:\ListasDobles\ListasDobles\bin\Debug\ListasDobles.pdb
+H:\ListasDobles\ListasDobles\obj\Debug\ListasDobles.csprojResolveAssemblyReference.cache
+H:\ListasDobles\ListasDobles\obj\Debug\ListasDobles.Form1.resources
+H:\ListasDobles\ListasDobles\obj\Debug\ListasDobles.Properties.Resources.resources
+H:\ListasDobles\ListasDobles\obj\Debug\ListasDobles.csproj.GenerateResource.Cache
+H:\ListasDobles\ListasDobles\obj\Debug\ListasDobles.csproj.CoreCompileInputs.cache
+H:\ListasDobles\ListasDobles\obj\Debug\ListasDobles.exe
+H:\ListasDobles\ListasDobles\obj\Debug\ListasDobles.pdb
