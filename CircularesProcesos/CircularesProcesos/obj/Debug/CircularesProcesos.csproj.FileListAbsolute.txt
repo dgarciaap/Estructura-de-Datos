@@ -1,0 +1,9 @@
+c:\users\diana\documents\visual studio 2017\Projects\CircularesProcesos\CircularesProcesos\bin\Debug\CircularesProcesos.exe.config
+c:\users\diana\documents\visual studio 2017\Projects\CircularesProcesos\CircularesProcesos\bin\Debug\CircularesProcesos.exe
+c:\users\diana\documents\visual studio 2017\Projects\CircularesProcesos\CircularesProcesos\bin\Debug\CircularesProcesos.pdb
+c:\users\diana\documents\visual studio 2017\Projects\CircularesProcesos\CircularesProcesos\obj\Debug\CircularesProcesos.csprojResolveAssemblyReference.cache
+c:\users\diana\documents\visual studio 2017\Projects\CircularesProcesos\CircularesProcesos\obj\Debug\CircularesProcesos.Form1.resources
+c:\users\diana\documents\visual studio 2017\Projects\CircularesProcesos\CircularesProcesos\obj\Debug\CircularesProcesos.Properties.Resources.resources
+c:\users\diana\documents\visual studio 2017\Projects\CircularesProcesos\CircularesProcesos\obj\Debug\CircularesProcesos.csproj.GenerateResource.Cache
+c:\users\diana\documents\visual studio 2017\Projects\CircularesProcesos\CircularesProcesos\obj\Debug\CircularesProcesos.exe
+c:\users\diana\documents\visual studio 2017\Projects\CircularesProcesos\CircularesProcesos\obj\Debug\CircularesProcesos.pdb
